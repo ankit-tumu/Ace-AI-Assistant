@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "page_content": "Ankit Tumuluri\n\nUS Citizen\n\n(312)-661-2980\n\nankit.tumuluri@gmail.com linkedin.com/in/ankit-tumuluri\n\nEducation\n\nThe Pennsylvania State University - University Park B.S. in Data Sciences\n\nAugust 2021 – May 2025\n\nCoursework: Data Structures, Data Visualization, Computational Theory, Computer Architecture\n\nExperience\n\nSoftware Engineer RSQUARE\n\nMonroe, NJ June 2025 – Present ◦ Designed and implemented an analytics-driven dashboard enabling clients to monitor wellness data and\n\nmanage preferences, improving data clarity and reducing customer confusion by 20%.\n\nBuilt a recommendation engine using Python and SQL that synthesized 10+ user health data points to deliver personalized fitness plans.\n\nOptimized data pipelines and reduced AI response latency by 30%, enabling faster data queries and improv- ing user experience.\n\nLLM Training Expert Scale AI\n\nRemote October 2024 – May 2025 ◦ Applied data-driven evaluation methods to refine text-to-speech and NLP models for a Microsoft-backed\n\nvideo game project.\n\nConducted QA and data validation on AI model outputs, maintaining 98%+ accuracy while processing high-volume datasets.\n\nCollaborated with cross-functional teams to improve model quality and enhance player engagement metrics.\n\nProjects\n\nSales Performance Dashboard — SQL, Tableau, Excel\n\nAnalyzed 3 years of sales data (50+ stores) with SQL queries and Excel for KPI reporting. ◦ Built an interactive Tableau dashboard highlighting trends by region, product category, and seasonality. ◦ Identified a 15% revenue growth opportunity by surfacing underperforming regions.\n\nNBA Shot Charts — Python, Pandas, Matplotlib\n\nCollected and cleaned 100k+ rows of NBA stats via the NBA API. ◦ Built regression models to predict player scoring averages with 87% accuracy. ◦ Visualized player trends and shot charts to support decision-making for analysts and fans.\n\nCustomer Churn Analysis — SQL, Tableau\n\nExamined a telecom dataset of 10,000+ users to identify churn drivers by demographics and contract type. ◦ Created SQL queries to segment customers and calculated churn KPIs. ◦ Developed a Tableau dashboard used to recommend retention strategies for at-risk customers.\n\nSkills\n\nData Tools: SQL (PostgreSQL, SQLite), Excel (pivot tables, advanced formulas), Tableau, Power BI\n\nProgramming: Python (pandas, NumPy, matplotlib, seaborn), R\n\nTechniques: Data cleaning, exploratory data analysis (EDA), dashboarding, reporting automation, API inte- gration, Pycharm, Tableau\n\nOther: Git, Docker, AWS, Google Cloud",
+      "metadata": {
+        "source": "/var/folders/fx/0yp81h413vzfghydg_kpcdmm0000gn/T/tmp3kbe84o_.pdf"
+      }
+    }
+  ],
+  "file_metadata": {
+    "filename": "Ankit_Tumuluri__DS_.pdf",
+    "size": 119629,
+    "size_mb": 0.11,
+    "pages": 1,
+    "processed_at": "2025-09-25T16:50:45.742931",
+    "doc_hash": "72474423dc125e114074d0e519e1cb03",
+    "total_characters": 2513
+  },
+  "created_at": "2025-09-25T16:50:45.742960",
+  "model_used": "nomic-embed-text"
+}

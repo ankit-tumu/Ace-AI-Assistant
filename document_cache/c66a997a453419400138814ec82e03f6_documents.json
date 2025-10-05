@@ -1,0 +1,21 @@
+{
+  "documents": [
+    {
+      "page_content": "The Future of Urban Farming\n\nUrban farming is transforming cities around the globe, providing fresh\n\nproduce, reducing food miles, and improving sustainability. As urban\n\npopulations continue to swell, cities face growing challenges in feeding\n\nresidents efficiently while maintaining environmental\n\nhealth.\n\nUrban\n\nfarming,\n\nwhich encompasses rooftop gardens,\n\nvertical\n\nfarms,\n\nand\n\ncommunity gardens, presents a compelling solution.\n\nRooftop gardens utilize unused building tops to grow vegetables and herbs,\n\nreducing the heat island effect in cities and improving air quality. Vertical\n\nfarms take this concept further, stacking layers of crops in controlled\n\nindoor environments. By using hydroponics and aeroponics, vertical farms\n\nminimize soil use and water consumption while maximizing yield per\n\nsquare foot. This approach is particularly attractive in dense cities where\n\nland is scarce.\n\nCommunity gardens also play a crucial role, fostering social interaction and\n\neducation. Residents can grow their own food, learn about sustainable\n\npractices, and reconnect with nature despite living in a concrete-heavy\n\nenvironment. These gardens can be a hub for workshops, local markets,\n\nand initiatives aimed at reducing food insecurity.\n\nTechnology is increasingly central to urban farming. Smart sensors monitor\n\nsoil moisture, light exposure, and nutrient levels, optimizing growth\n\nconditions. AI-powered systems predict crop yields and manage resources\n\nefficiently. In the coming decades, urban farming is likely to become an\n\nintegral part of city planning, helping cities become more resilient,\n\nself-sufficient, and environmentally friendly.\n\nWhile challenges remain, including energy costs for indoor farms and\n\nzoning regulations,\n\nthe potential\n\nbenefits—healthier diets,\n\nstronger\n\ncommunities, and greener cities—make urban farming an idea whose time\n\nhas come. Cities that invest in these innovative agricultural models are\n\npreparing for a future where fresh, sustainable food is just a rooftop away.",
+      "metadata": {
+        "source": "/var/folders/fx/0yp81h413vzfghydg_kpcdmm0000gn/T/tmpyg7x1uzr.pdf"
+      }
+    }
+  ],
+  "file_metadata": {
+    "filename": "Article1.pdf",
+    "size": 13647,
+    "size_mb": 0.01,
+    "pages": 1,
+    "processed_at": "2025-09-26T15:40:56.297535",
+    "doc_hash": "c66a997a453419400138814ec82e03f6",
+    "total_characters": 2023
+  },
+  "created_at": "2025-09-26T15:40:56.297549",
+  "model_used": "nomic-embed-text"
+}
