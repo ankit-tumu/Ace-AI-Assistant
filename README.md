@@ -2,6 +2,10 @@
 
 A sophisticated RAG (Retrieval-Augmented Generation) application that enables intelligent conversations with multiple PDF documents simultaneously. Built with Streamlit, LangChain, and Ollama for local, privacy-focused document analysis.
 
+<img width="1397" height="869" alt="ace" src="https://github.com/user-attachments/assets/f2f121e0-b5e0-4431-a318-61b1ceee2898" />
+
+
+
 ## ✨ Features
 
 - **Multi-Document Support**: Upload and query multiple PDF files at once
